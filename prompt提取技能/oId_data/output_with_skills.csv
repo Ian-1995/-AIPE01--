@@ -1,0 +1,140 @@
+job_id,更新日期,查詢職類,查詢關鍵字,職務類別,職缺名稱,公司名稱,公司連結,產業別,上班地點,地區,城市,國家,薪資,薪資下限,薪資上限,職缺描述,職務需求,工作經歷要求,學歷要求,科系要求,擅長工具,工作技能,中文聽力,中文口說,中文閱讀,中文寫作,英文聽力,英文口說,英文閱讀,英文寫作,日文聽力,日文口說,日文閱讀,日文寫作,台語聽力,台語口說,台語閱讀,台語寫作,其他條件,福利制度,法定福利,其他福利,面試流程,職缺連結,爬取時間,技能原文,技能
+8f54d,2025/06/30,2007001001,TypeScript,軟體工程師、前端工程師、軟體專案主管,[R&D] Frontend Engineer 前端工程師,iStaging愛實境_愛實境股份有限公司,https://www.104.com.tw/company/bjdang8,其它軟體及網路相關業,台北市松山區南京東路4段2號2樓（小巨蛋南區入口處）,松山區,台北市,台灣,待遇面議,0,0,我們致力於建構先進的 VR、AR 和 MR 產品，讓使用者能使用頭盔或瀏覽器享受WebXR體驗，並打造直觀易用的 3D 場景編輯後台。你的工作將包括：  •　理解需求，進行前端開發與測試 •　獨立排除問題，並具備與隊友協作解決問題的能力 •　緊跟 WebXR 技術的最新發展，嘗試使用新技術導入產品 •　與團隊成員進行 Code review，提供回饋，提升產品品質和自身能力 •　主動提供網站效能優化建議  【必備條件】  •　1 年以上前端開發經驗 •　熟練掌握 HTML、CSS、JavaScript、 •　具備 React、Next.js、Vue、Nuxt.js 等前端框架的開發經驗 •　對 WebXR 充滿熱情或好奇心 •　熟悉 Git Flow 開發流程  【加分條件】  •　具備 Three.js 相關開發經驗 •　熟 TypeScript •　熟悉 WebXR、WebGL •　有頭戴式裝置沉浸式體驗的開發經驗,,1年以上,專科、大學、碩士,,Git、Redux、VueJS、ReactJS、Node.js、CSS、JavaScript、HTML、AWS、Github,系統架構規劃、資料庫軟體應用、模組化系統設計、結構化程式設計、軟體程式設計、軟體工程系統開發、系統整合分析,,,,,,,,,,,,,,,,,,員工認股、年終獎金、零食櫃、咖啡吧、國內旅遊、國外旅遊、部門聚餐、免費下午茶、優於勞基法特休、伙食津貼、員工團體保險,週休二日、勞保、健保、特別休假、女性生理假、勞退提撥金,"正職員工享有以下福利：
+
+【薪獎假勤類】
+. 具市場競爭力的薪資、年終獎金
+. 每月固定享有2000元健康獎金, 依在職比例發放之
+. 優於勞基法之年特休假(10-30天)
+.  Employee Stock Option(員工認股權), 按照績效表現配發
+.  業務單位另有業績獎金
+
+【娛樂類】
+. 供應療癒系健康美食、咖啡BAR
+. 好躺好睡的午覺柔軟沙發
+. 歡唱卡拉OK BAR
+. 員工聚餐及下午茶
+. 健身運動中心補助 (限松山運動中心)
+. 小小圖書館
+. 年度團體活動 (Team Building, 旅遊等)
+*公司得依年度營運情形保留調整之彈性。
+
+【其他】
+. 入職即享勞健保，任職滿三個月提供團體保險
+. 優質辦公環境（咖啡機、電冰箱、微波爐、午睡沙發、按摩椅、健身器材及卡拉OK 等）
+
+iStaging提供國際舞台，與不同國籍同事溝通的工作環境
+擁有積極挑戰的企業文化
+定期也會有產業知識分享會
+
+辦公環境寛敝，（光線明亮寬敞、咖啡機、電冰箱、微波爐、午睡沙發、按摩椅、健身器材及卡拉OK 等），鄰近松山運動中心，午休或下班後運動都很方便喔
+快來加入我們吧!",,https://www.104.com.tw/job/8f54d,2025-07-18 00:13:38,"我們致力於建構先進的 VR、AR 和 MR 產品，讓使用者能使用頭盔或瀏覽器享受WebXR體驗，並打造直觀易用的 3D 場景編輯後台。你的工作將包括：  •　理解需求，進行前端開發與測試 •　獨立排除問題，並具備與隊友協作解決問題的能力 •　緊跟 WebXR 技術的最新發展，嘗試使用新技術導入產品 •　與團隊成員進行 Code review，提供回饋，提升產品品質和自身能力 •　主動提供網站效能優化建議  【必備條件】  •　1 年以上前端開發經驗 •　熟練掌握 HTML、CSS、JavaScript、 •　具備 React、Next.js、Vue、Nuxt.js 等前端框架的開發經驗 •　對 WebXR 充滿熱情或好奇心 •　熟悉 Git Flow 開發流程  【加分條件】  •　具備 Three.js 相關開發經驗 •　熟 TypeScript •　熟悉 WebXR、WebGL •　有頭戴式裝置沉浸式體驗的開發經驗
+Git、Redux、VueJS、ReactJS、Node.js、CSS、JavaScript、HTML、AWS、Github
+系統架構規劃、資料庫軟體應用、模組化系統設計、結構化程式設計、軟體程式設計、軟體工程系統開發、系統整合分析","Git, Redux, VueJS, ReactJS, Node.js, CSS, JavaScript, HTML, AWS, Github"
+7p2cn,2025/06/30,2007001001,TypeScript,軟體工程師、前端工程師、軟體專案主管,[R&D] Senior Frontend Engineer 資深前端工程師,iStaging愛實境_愛實境股份有限公司,https://www.104.com.tw/company/bjdang8,其它軟體及網路相關業,台北市松山區南京東路4段2號2樓（小巨蛋南區入口處）,松山區,台北市,台灣,待遇面議,0,0,我們致力於建構先進的 VR、AR 和 MR 產品，讓使用者能使用頭盔或瀏覽器享受WebXR體驗，並打造直觀易用的 3D 場景編輯後台。你的工作將包括：  •　理解需求，進行前端開發與測試 •　獨立排除問題，並具備帶領隊友解決問題的能力 •　緊跟 WebXR 技術的最新發展，將新技術導入產品 •　與團隊成員進行 Code review，提供回饋，提升產品品質和自身能力 •　主動提供網站效能優化建議  【必備條件】  •　3 年以上前端開發經驗 •　熟練掌握 HTML、CSS、JavaScript、TypeScript •　具備 React、Next.js、Vue、Nuxt.js 等前端框架的開發經驗 •　對 WebXR 充滿熱情或好奇心 •　熟悉 Git Flow 開發流程  【加分條件】  •　具備 Three.js 相關開發經驗 •　熟悉 WebXR、WebGL •　有頭戴式裝置沉浸式體驗的開發經驗,,3年以上,專科、大學、碩士,,Git、AWS、HTML、JavaScript、CSS、Node.js、ReactJS、VueJS、Redux,系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用,,,,,,,,,,,,,,,,,,員工認股、年終獎金、零食櫃、咖啡吧、國內旅遊、國外旅遊、部門聚餐、免費下午茶、優於勞基法特休、伙食津貼、員工團體保險,週休二日、勞保、健保、特別休假、女性生理假、勞退提撥金,"正職員工享有以下福利：
+
+【薪獎假勤類】
+. 具市場競爭力的薪資、年終獎金
+. 每月固定享有2000元健康獎金, 依在職比例發放之
+. 優於勞基法之年特休假(10-30天)
+.  Employee Stock Option(員工認股權), 按照績效表現配發
+.  業務單位另有業績獎金
+
+【娛樂類】
+. 供應療癒系健康美食、咖啡BAR
+. 好躺好睡的午覺柔軟沙發
+. 歡唱卡拉OK BAR
+. 員工聚餐及下午茶
+. 健身運動中心補助 (限松山運動中心)
+. 小小圖書館
+. 年度團體活動 (Team Building, 旅遊等)
+*公司得依年度營運情形保留調整之彈性。
+
+【其他】
+. 入職即享勞健保，任職滿三個月提供團體保險
+. 優質辦公環境（咖啡機、電冰箱、微波爐、午睡沙發、按摩椅、健身器材及卡拉OK 等）
+
+iStaging提供國際舞台，與不同國籍同事溝通的工作環境
+擁有積極挑戰的企業文化
+定期也會有產業知識分享會
+
+辦公環境寛敝，（光線明亮寬敞、咖啡機、電冰箱、微波爐、午睡沙發、按摩椅、健身器材及卡拉OK 等），鄰近松山運動中心，午休或下班後運動都很方便喔
+快來加入我們吧!",,https://www.104.com.tw/job/7p2cn,2025-07-18 00:13:38,"我們致力於建構先進的 VR、AR 和 MR 產品，讓使用者能使用頭盔或瀏覽器享受WebXR體驗，並打造直觀易用的 3D 場景編輯後台。你的工作將包括：  •　理解需求，進行前端開發與測試 •　獨立排除問題，並具備帶領隊友解決問題的能力 •　緊跟 WebXR 技術的最新發展，將新技術導入產品 •　與團隊成員進行 Code review，提供回饋，提升產品品質和自身能力 •　主動提供網站效能優化建議  【必備條件】  •　3 年以上前端開發經驗 •　熟練掌握 HTML、CSS、JavaScript、TypeScript •　具備 React、Next.js、Vue、Nuxt.js 等前端框架的開發經驗 •　對 WebXR 充滿熱情或好奇心 •　熟悉 Git Flow 開發流程  【加分條件】  •　具備 Three.js 相關開發經驗 •　熟悉 WebXR、WebGL •　有頭戴式裝置沉浸式體驗的開發經驗
+Git、AWS、HTML、JavaScript、CSS、Node.js、ReactJS、VueJS、Redux
+系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用","HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Nuxt.js, Git, AWS, WebXR, WebGL, Node.js, Redux, 系统架构规划，系统整合分析，软件工程开发，程式设计，结构化程式设计，模块化设计，数据库应用"
+8cbyv,2025/07/14,2007001001,TypeScript,後端工程師、軟體工程師、軟體專案主管,後端工程主管,香港商蒙卓有限公司台灣分公司,https://www.104.com.tw/company/1a2x6bmedx,網際網路相關業,台北市松山區南京東路五段99號5樓,松山區,台北市,台灣,"年薪1,500,000~2,500,000元",1500000,2500000,"工作內容  - 負責 Backend 程式設計並擬定開發計畫 - 檢視並優化服務安全性穩定性 - 持續增加測試以及重構來優化效能與改善程式品質 - 撰寫技術文件、內部流程SOP - 協助處理部門內外溝通事務，並分配部門工作與調配資源 - 軟體工作環境以及軟體流程持續改善 - Devops相關工具與部署的持續優化  條件要求 - 英文閱讀撰寫能力中級以上 - 五年以上 Backend 程式開發經驗 - 有管理 Backend Team 兩年以上經驗 - 熟悉 Node.js / Javascript ES6 / TypeScript - 熟悉 MongoDB, Redis - 熟悉容器化部署 (Docker) - 熟悉 Distributed Services 且有參與設計經驗  - 瞭解網路OSI七層架構與基本協定（http, https, websocket, tcp/ip ...等) - 瞭解 DevOps 服務部署方法和流程，使用過雲端服務經驗，如 AWS, GCP, Digital Ocean 等 - 暸解 System monitoring 實務 - 擅長溝通協調，會使用不同的方式（如文件，畫圖，敘事）幫助溝通更順暢",,5年以上,大學以上,,Github、Git、AWS、JavaScript、Node.js,軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計,,,,,,,,,,,,,,,,,"▲ 加分項目 ▲
+- 有使用 Infrastructure as Code 經驗
+- 有將服務 scaling up 的經驗
+- 熟悉其他中低階語言（c, c++, rust, golang...等)
+- 熟悉其他database
+- 有即時連線遊戲開發應用經驗
+- 有前端經驗
+- 喜歡玩撲克牌遊戲或是各種益智型桌遊/電玩",年終獎金、零食櫃、不扣薪病假、下午茶、員工體檢假,,"我們重視每位員工，提供自主的工作流程，讓所有夥伴們能自行規劃工作時間與流程，認為工作與生活的平衡才是團隊長期合作的基礎。
+
+【法定項目】
+勞保、健保、特別休假、勞退提撥金
+
+【薪資福利】
+員工紅利、年終獎金、三節獎金
+
+【休假制度】
+★ 通過試用期，首年享有優於勞基法的10.5天特休，資歷每多一年多1天特休
+★ 每年有7天帶薪病假，不扣薪您安心
+
+【額外員工福利】
+★ 辦公室提供零食點心，不定時下午茶及公司聚餐
+★ 每年一次員工健康檢查
+
+",,https://www.104.com.tw/job/8cbyv,2025-07-18 00:13:39,"工作內容  - 負責 Backend 程式設計並擬定開發計畫 - 檢視並優化服務安全性穩定性 - 持續增加測試以及重構來優化效能與改善程式品質 - 撰寫技術文件、內部流程SOP - 協助處理部門內外溝通事務，並分配部門工作與調配資源 - 軟體工作環境以及軟體流程持續改善 - Devops相關工具與部署的持續優化  條件要求 - 英文閱讀撰寫能力中級以上 - 五年以上 Backend 程式開發經驗 - 有管理 Backend Team 兩年以上經驗 - 熟悉 Node.js / Javascript ES6 / TypeScript - 熟悉 MongoDB, Redis - 熟悉容器化部署 (Docker) - 熟悉 Distributed Services 且有參與設計經驗  - 瞭解網路OSI七層架構與基本協定（http, https, websocket, tcp/ip ...等) - 瞭解 DevOps 服務部署方法和流程，使用過雲端服務經驗，如 AWS, GCP, Digital Ocean 等 - 暸解 System monitoring 實務 - 擅長溝通協調，會使用不同的方式（如文件，畫圖，敘事）幫助溝通更順暢
+Github、Git、AWS、JavaScript、Node.js
+軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計","Skills:
+
+1. Backend Programming: Node.js, Javascript (ES6), TypeScript
+2. Database Management: MongoDB, Redis
+3. DevOps Tools: Docker, AWS (Cloud Services)
+4. System Monitoring: Familiar with practical system monitoring
+5. Communication and协调: Strong in interpersonal communication, using various methods to facilitate understanding
+
+Tools Used:
+- Git for version control
+- Github for project management and collaboration
+- AWS (Amazon Web Services) for cloud computing services
+- Docker for containerization and deployment"
+8b902,2025/07/09,2007001001,TypeScript,軟體工程師、軟體專案主管、演算法工程師,Senior Software Development Lead,Taiwan AI Labs_雅婷智慧股份有限公司,https://www.104.com.tw/company/1a2x6bm0oj,其它軟體及網路相關業,台北市大同區承德路1段70號15樓,大同區,台北市,台灣,待遇面議,0,0,"Yating(https://yating.tw/zh-hant), a Taiwan AI Labs’ company, provides a dynamic startup environment that fosters exceptional career development opportunities. We are looking for talented professionals to join us in advancing AI solutions for news and social media analysis. We’re seeking talents who are results-driven, highly organized, and possess strong leadership skills to plan, execute, and manage information analysis projects.  Join our team and contribute to the exciting world of AI.  【Responsibilities】 1. Bachelor's degree in Computer Science , Electrical Engineering or equivalent practical experience. 2. 5 years of experience in one or more of the following areas such as frontend development, backend development and cloud service development. 3. Experience with coding projects with common programming/scripting languages such as TypeScript, JavaScript, Python, Go, PHP, Java,  etc. 4. Be familiar with Linux, Ubuntu, docker and Kubernetes. 5. Be familiar with algorithms and data structure.  【Essential Qualifications】 1. 8 years of experience in software development. 2. 3 years of experience leadership in software development. 3. Excellent knowledge of system design. 4. Excellent problem-solving, communication, and project management skills.",,5年以上,大學以上,數學及電算機科學學科類、資訊管理相關、電機電子工程相關,Java、PHP、Go、JavaScript,系統架構規劃、系統整合分析、軟體工程系統開發、軟體品質與保證、軟體程式設計,,,,,精通,中等,精通,精通,,,,,,,,,,,,"正職福利制度
+
+▌彈性工時：正常工作時數內，每日1hr的彈性工時
+
+▌彈性遠端：每週1~2天的遠端工作日
+
+▌工作環境：吧台公共空間，提供自助零食、飲料、原豆研磨咖啡機
+
+▌年度休假：優於勞基法之特休，每年全薪志工服務假 2 天
+
+▌免費健檢：一年一次健康檢查
+
+▌團隊聚餐：每個月定期公司組織員工聚餐一次、尾牙、春酒、不定期員工活動",,https://www.104.com.tw/job/8b902,2025-07-18 00:13:40,"Yating(https://yating.tw/zh-hant), a Taiwan AI Labs’ company, provides a dynamic startup environment that fosters exceptional career development opportunities. We are looking for talented professionals to join us in advancing AI solutions for news and social media analysis. We’re seeking talents who are results-driven, highly organized, and possess strong leadership skills to plan, execute, and manage information analysis projects.  Join our team and contribute to the exciting world of AI.  【Responsibilities】 1. Bachelor's degree in Computer Science , Electrical Engineering or equivalent practical experience. 2. 5 years of experience in one or more of the following areas such as frontend development, backend development and cloud service development. 3. Experience with coding projects with common programming/scripting languages such as TypeScript, JavaScript, Python, Go, PHP, Java,  etc. 4. Be familiar with Linux, Ubuntu, docker and Kubernetes. 5. Be familiar with algorithms and data structure.  【Essential Qualifications】 1. 8 years of experience in software development. 2. 3 years of experience leadership in software development. 3. Excellent knowledge of system design. 4. Excellent problem-solving, communication, and project management skills.
+Java、PHP、Go、JavaScript
+系統架構規劃、系統整合分析、軟體工程系統開發、軟體品質與保證、軟體程式設計","Python, TypeScript, Docker, Kubernetes, 数据结构，算法，Linux操作系统，问题解决能力，沟通技巧，项目管理能力。"
+8bz2q,2025/07/14,2007001001,TypeScript,前端工程師、軟體工程師、軟體專案主管,【擴編】資深前端工程師 Senior Frontend Developer,思量科技有限公司,https://www.104.com.tw/company/1a2x6bmxjc,電腦軟體服務業,台北市中正區忠孝東路二段26號2樓,中正區,台北市,台灣,"月薪80,000~120,000元",80000,120000,主要職責： • 設計和實施高效能的前端架構。 • 領導前端項目，從規劃到部署，主要使用 Vue 框架。 • 在複雜系統中進行前端性能優化。 • 研發創新的前端技術解決方案。 • 為團隊提供技術指導和支持，提高團隊技術水平。 • 強調代碼的易維護性、可複用性和可擴展性。 • 確保前端實現能夠精確還原設計稿。 • 專精於手機端應用程式的調試和性能優化。  職務需求： • 至少三年以上的前端開發經驗。 • 精通 HTML、CSS、JavaScript、TypeScript、Vue 。 • 具備響應式網站開發能力。 • 能夠解決瀏覽器兼容性問題和前端性能問題。 • 具有良好的領導能力和團隊協作精神。 • 具備獨立開發以及多人協作能力。 • 熟悉編寫高品質、可維護和可擴展的代碼。 • 具備豐富的手機端調試和優化經驗。  *需配合假日排班,,3年以上,不拘,,,軟體工程系統開發、軟體程式設計,,,,,,,,,,,,,,,,,,年終獎金、三節獎金/禮品、零食櫃、不扣薪病假、不扣薪事假、部門聚餐、免費下午茶、優於勞基法特休,週休二日、勞保、健保、女性生理假,"【勞基法的全方位保障，還有額外加碼！】 
+
+• 保障13個月年薪，讓工作與快樂同行！ 
+• 第一年享有12天特休（依任職比例給予），讓你輕鬆休假！ 
+• 第二年起，特休增至14天，無需顧慮，開心放鬆！ 
+• 提供員工團體意外傷害保險，24小時保障您的安全與健康。 
+• 過節紅包不可少！春節、中秋、端午及生日禮金是我們的基本承諾！ 
+• 每年享有一天不扣薪事假及兩天全薪病假，讓你自在安排生活。 
+• 女性員工每月還可享有一天不扣薪的生理假，關心你的需求！ 
+• 每月提供運動津貼，支持你的身心靈健康！ 
+• 連假前提早一小時下班，貼心閃避堵塞的車流量。 
+• 每月一次團隊聚餐補助，增進團隊凝聚力，讓美食連結我們的心~ 
+(沒有什麼是一頓美食解決不了的，有，就是兩頓！) 
+
+【為你打造最安全舒適的辦公環境！】 
+
+• 時尚現代的辦公室，開放式工作空間帶來舒適氛圍。 
+• 高規格設備，配備最新的Macbook Pro M4！ 
+• 雙27吋螢幕及升降桌，提升工作效率！ 
+• 人體工學椅，呵護你的脊椎，助你保持最佳坐姿！ 
+• 免費提供咖啡、茶及各類飲品與美味點心，享受工作中的小確幸！ 
+• 不定期下午茶，讓同事之間的交流更親密~ ",,https://www.104.com.tw/job/8bz2q,2025-07-18 00:13:41,"主要職責： • 設計和實施高效能的前端架構。 • 領導前端項目，從規劃到部署，主要使用 Vue 框架。 • 在複雜系統中進行前端性能優化。 • 研發創新的前端技術解決方案。 • 為團隊提供技術指導和支持，提高團隊技術水平。 • 強調代碼的易維護性、可複用性和可擴展性。 • 確保前端實現能夠精確還原設計稿。 • 專精於手機端應用程式的調試和性能優化。  職務需求： • 至少三年以上的前端開發經驗。 • 精通 HTML、CSS、JavaScript、TypeScript、Vue 。 • 具備響應式網站開發能力。 • 能夠解決瀏覽器兼容性問題和前端性能問題。 • 具有良好的領導能力和團隊協作精神。 • 具備獨立開發以及多人協作能力。 • 熟悉編寫高品質、可維護和可擴展的代碼。 • 具備豐富的手機端調試和優化經驗。  *需配合假日排班
+nan
+軟體工程系統開發、軟體程式設計","HTML, CSS, JavaScript, TypeScript, Vue.js, Responsive Web Design, Browser Compatibility, Frontend Performance Optimization, Leadership, Teamwork, Web Application Development,排班管理（根据节假日）"
